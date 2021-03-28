@@ -1,0 +1,26 @@
+@import "reset";
+
+
+body,
+html {
+	font-weight: normal;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.form-group{
+	margin-bottom: -2px;
+
+}
+
+ul{
+	border:solid #ccc 1px;
+	border-radius: .3rem;
+}
+
+li{
+	padding: 12px 6px;
+}
+
+li:hover{
+	background-color: #80bdff;
+}
